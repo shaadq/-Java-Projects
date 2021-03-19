@@ -1,4 +1,4 @@
-// Banking Management Project
+// Bank Management Project
 import java.util.Scanner;
 class Project
 {
