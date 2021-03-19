@@ -223,46 +223,4 @@ class Bankacc
 	}
 }
 
-		
-
-
-		
-
-
-		/*System.out.print("Enter your name: ");
-		String n=sc.nextLine();
-		System.out.print("Enter your ID: ");
-		String id=sc.nextLine();
-
-		Project p=new Project(n,id);
-        int l=0;
-		while (l==0)
-		{
-			System.out.print("Enter any option: ");
-			String op=sc.nextLine();
-
-			if (op.equals("A"))
-			{
-				p.Checkbalance();
-			}
-			else if (op.equals("B"))
-			{
-				p.Deposit();		
-			}
-			else if (op.equals("C")) 
-			{
-				p.Withdraw();
-			}
-			else if (op.equals("D")) 
-			{
-				p.Ptran();
-			}
-			else if (op.equals("E"))
-			{
-				l=p.Exit();
-			}
-			else
-			{
-				System.out.println("Invalid input.");
-			}
-		}*/		
+				
